@@ -171,3 +171,19 @@ a:after {
     width: auto;
     height: auto;
 }
+
+
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand img {
+    height: 30px; 
+    margin-right: 10px; 
+}
+
+.nav.navbar-nav li a {
+    line-height: 30px; /* Adjust the line height as per your preference */
+}
